@@ -86,12 +86,11 @@
   - [VirtualApk解析](/android/advance/virtualapk.md)
   - [Android推送技术解析](/android/advance/push.md)
   - [Android Apk安装过程](/android/advance/apk-install.md)
-  - [PopupWindow和Dialog区别](/android/advance/dialog-popupwindow)
+  - [PopupWindow和Dialog区别](/android/advance/dialog-popupwindow.md)
 * [开源框架](/android/open-source-framework.md)
   * [OkHttp解析](/android/open-source-framework/okhttp.md)
   * [Retrofit解析](/android/open-source-framework/Retrofit.md)
   * [EventBus解析](/android/open-source-framework/EventBus.md)
-  * [Butterknife解析](/android/open-source-framework/butterknife.md)
 
 ## 数据结构
 
@@ -211,6 +210,8 @@
     - [Remove Linked List Elements](/algorithm/LeetCode/Linked-List/Remove-Linked-List-Elements.md)
   - [Greedy](/algorithm/LeetCode/Greedy.md)
     - [Jump Game](/algorithm/LeetCode/Greedy/Jump-Game.md)
+    - [Gas Station](/algorithm/LeetCode/Greedy/Gas-Station.md)
+    - [Candy](/algorithm/LeetCode/Greedy/Candy.md)
 
 ## 设计模式
 
